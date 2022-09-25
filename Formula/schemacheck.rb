@@ -2,8 +2,8 @@ class Schemacheck < Formula
   desc "CLI utility to validate yaml and json files against a schema written in Go"
   homepage "https://github.com/adrielp/schemacheck"
   url "https://github.com/adrielp/schemacheck.git",
-    tag:      "v1.5.0",
-    revision: "0650ed36e233cc780be74b135d156d728609162e"
+    tag:      "v1.6.0",
+    revision: "383966ff297e11e111d6fb21cc23c2598c433bc7"
   license "MIT"
   head "https://github.com/adrielp/schemacheck.git", branch: "main"
 
